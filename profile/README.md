@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" alt="SyntheraQR logo" width="128"/>
+<img src="https://raw.githubusercontent.com/goldstac/SyntheraQr/main/logo.jpg" alt="SyntheraQR logo" width="128"/>
 
 # SyntheraQR
 
