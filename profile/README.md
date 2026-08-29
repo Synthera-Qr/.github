@@ -45,3 +45,7 @@ curl -fsSL https://syntheraqr.netlify.app/install | bash
 ### License
 
 MIT
+
+---
+
+Made with ♥ by [LI Productions](https://linktr.ee/liproductions).
