@@ -6,7 +6,7 @@
 
 Ultra-modern QR code generation — web and terminal.
 
-**[Website](https://syntheraqr.site)** · **[CLI](https://github.com/Synthera-Qr/synthera-qr-cli)** · **[Web App](https://github.com/Synthera-Qr/SyntheraQr)**
+**[Website](https://syntheraqr.netlify.app)** · **[CLI](https://github.com/Synthera-Qr/synthera-qr-cli)** · **[Web App](https://github.com/Synthera-Qr/SyntheraQr)**
 
 </div>
 
@@ -34,7 +34,7 @@ Same rendering engine, same output — available as a web app and a CLI tool.
 
 ### Install
 
-**Web:** [syntheraqr.site](https://syntheraqr.site)
+**Web:** [syntheraqr.netlify.app](https://syntheraqr.netlify.app)
 
 **CLI:**
 
